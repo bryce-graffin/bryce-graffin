@@ -9,8 +9,8 @@
 
 <h2>👨‍💻 Personal Software Development Projects:</h2>
 
-- <b>EATTHISMUCH.COM Meal Planning Scraper</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) **change this later**
+- <b>Meal Planning Scraper</b>
+  - [Practicing Web-Scraping Data](https://github.com/bryce-graffin/mealPlanProject)
 
 <h2>*emoji* Certifications:</h2>
 - <b>Certs here...</b>
