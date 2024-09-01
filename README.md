@@ -22,7 +22,7 @@
 [linkedin]: https://linkedin.com/in/bryce-graffin
 
 <!--
-**sugarfreebeverage/sugarfreebeverage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bryce-graffin/bryce-graffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
